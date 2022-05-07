@@ -1,0 +1,40 @@
+.carousel-control-next-icon{
+    background-color: rgb(1, 2, 2);
+}
+.carousel-control-prev-icon{
+    background-color: rgb(1, 2, 2);
+}
+.carousel-inner .carousel-item{
+    color: green;
+    background-color: none(255, 255, 255, 0.808);
+    padding: 70px;
+}
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 0.5rem
+rem
+ 1rem;
+    color: #212529;
+    text-decoration: none;
+    background-color: rgb(226, 87, 87);
+    border: 5px solid rgba(0,0,0,.125);
+}
+.list-group{
+    margin-bottom: 50px;
+}
+.list-group-item:hover{
+    color: rgb(226 , 87, 87);
+    background-color: rgba(255, 182, 193, 0.514);
+    border-color: rgb(226, 87, 87);
+}
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(226, 87, 87);
+}
+.page-footer{
+    margin-top: 20px;
+}
